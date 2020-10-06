@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="907d7396-436a-4cf4-ad23-7e4ab8033001" name="Default Changelist" comment="" />
+    <list default="true" id="907d7396-436a-4cf4-ad23-7e4ab8033001" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Binary Search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fast ncr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Invert Matrix using O(1) extra space.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Knapsack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LCA from Pyrival.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pair sorting using stable sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Segment Tree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sieve for primes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorted List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stable Marrriage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Topological sort (Graphs).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
